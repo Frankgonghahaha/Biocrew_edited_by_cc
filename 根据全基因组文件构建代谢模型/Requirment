@@ -1,1 +1,2 @@
-
+conda install -c bioconda diamond
+pip install carveme
