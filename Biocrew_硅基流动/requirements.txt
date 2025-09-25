@@ -1,0 +1,10 @@
+crewai
+langchain
+langchain-openai
+python-dotenv
+pandas
+xlrd
+openpyxl
+enviPath-python
+psycopg2-binary  # PostgreSQL驱动
+SQLAlchemy  # 数据库工具
